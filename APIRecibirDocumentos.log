@@ -1,0 +1,650 @@
+2021-05-24 18:39:03 INFO  AppPropsBean:50 - Logs inicializados satisfactoriamente !!
+2021-05-24 18:39:03 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:39:03 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:39:04 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:39:04 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:39:04 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:39:04 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:39:04 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:39:04 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:17 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:17 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:17 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:17 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:17 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:17 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:17 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:17 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:17 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:17 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:19 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:19 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:19 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:19 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:19 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:19 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:19 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:19 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:19 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:19 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:35 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:35 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:35 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:35 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:35 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:35 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:35 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:35 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:35 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:35 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:37 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:37 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:37 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:37 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:37 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:37 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:37 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:37 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:37 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:37 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:38 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:38 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:38 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:38 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:38 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:38 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:38 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:38 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:38 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:38 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:50 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:50 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:50 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:50 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:50 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:50 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:50 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:50 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:50 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:50 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:52 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:52 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:52 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:52 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:52 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:52 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:52 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:52 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:52 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:52 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:53 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:53 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:53 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:53 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:53 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:53 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:53 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:53 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:53 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:53 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:54 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:54 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:54 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:54 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:54 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:54 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:54 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:54 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:54 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:54 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:56 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:56 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:56 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:56 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:56 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:56 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:56 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:56 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:56 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:56 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:46:57 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:46:57 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:46:57 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:46:57 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:46:57 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:46:57 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:46:57 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:46:57 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:46:57 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:46:57 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:47:18 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:47:18 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:47:18 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:47:18 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:47:18 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:47:18 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:47:18 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:47:18 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:47:18 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:47:18 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:55:11 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:55:11 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:55:11 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:55:11 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:55:11 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:55:11 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:55:11 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:55:11 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:55:11 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:55:11 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:55:13 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:55:13 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:55:13 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:55:13 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:55:13 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:55:13 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:55:13 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:55:13 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:55:13 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:55:13 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:55:14 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:55:14 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:55:14 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:55:14 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:55:14 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:55:14 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:55:14 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:55:14 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:55:14 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:55:14 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:56:27 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:56:27 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:56:27 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:56:27 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:56:27 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:56:27 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:56:27 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:56:27 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:56:27 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:56:27 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:56:29 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:56:29 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:56:29 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:56:29 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:56:29 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:56:29 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:56:29 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:56:29 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:56:29 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:56:29 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:56:32 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:56:32 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:56:32 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:56:32 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:56:32 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:56:32 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:56:32 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:56:32 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:56:32 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:56:32 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:56:33 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:56:33 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:56:33 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:56:33 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:56:33 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:56:33 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:56:33 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:56:33 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:56:33 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:56:33 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:57:05 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:57:05 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:57:05 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:57:05 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:57:05 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:57:05 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:57:05 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:57:05 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:57:05 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:57:05 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:58:44 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:58:44 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:58:45 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:58:45 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:58:45 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:58:45 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:58:45 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:58:45 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:58:45 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:58:45 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:58:47 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:58:47 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:58:47 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:58:47 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:58:47 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:58:47 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:58:47 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:58:47 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:58:47 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:58:47 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:58:48 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:58:48 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:58:48 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:58:48 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:58:48 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:58:48 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:58:48 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:58:48 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:58:48 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:58:48 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 18:58:49 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 18:58:49 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 18:58:49 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 18:58:49 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 18:58:49 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 18:58:49 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 18:58:49 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 18:58:49 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 18:58:49 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 18:58:49 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:00:55 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 378
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:00:55 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:00:55 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:00:55 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 19:00:55 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 19:00:55 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 19:00:55 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 19:00:55 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 19:00:55 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:00:55 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:01:22 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 375
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:01:22 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:01:22 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:01:22 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 19:01:22 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 19:01:22 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 19:01:22 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 19:01:22 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 19:01:22 INFO  RecibirAdjuntoBean:152 - ::: Contenido de bytes: 281
+2021-05-24 19:01:22 INFO  RecibirAdjuntoHelper:113 - Guardar el conteniodo binario de tamaño: 281
+2021-05-24 19:01:22 INFO  RecibirAdjuntoHelper:114 - En el archivo..C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190122122MZIcfA6hBN.cache
+2021-05-24 19:01:22 ERROR RecibirAdjuntoHelper:124 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190122122MZIcfA6hBN.cache
+2021-05-24 19:01:22 ERROR RecibirAdjuntoHelper:143 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190122122MZIcfA6hBN.cache
+2021-05-24 19:01:22 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:01:22 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:02:08 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 374
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:02:08 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:02:08 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:02:08 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 19:02:08 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 19:02:08 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 19:02:08 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 19:02:08 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 19:02:08 INFO  RecibirAdjuntoBean:152 - ::: Contenido de bytes: 280
+2021-05-24 19:02:08 INFO  RecibirAdjuntoHelper:113 - Guardar el conteniodo binario de tamaño: 280
+2021-05-24 19:02:08 INFO  RecibirAdjuntoHelper:114 - En el archivo..C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190208770c3igoIXHmU.cache
+2021-05-24 19:02:08 ERROR RecibirAdjuntoHelper:124 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190208770c3igoIXHmU.cache
+2021-05-24 19:02:08 ERROR RecibirAdjuntoHelper:143 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190208770c3igoIXHmU.cache
+2021-05-24 19:02:08 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:02:08 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:02:11 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 374
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:02:11 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:02:11 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:02:11 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 19:02:11 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 19:02:11 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 19:02:11 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 19:02:11 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 19:02:11 INFO  RecibirAdjuntoBean:152 - ::: Contenido de bytes: 280
+2021-05-24 19:02:11 INFO  RecibirAdjuntoHelper:113 - Guardar el conteniodo binario de tamaño: 280
+2021-05-24 19:02:11 INFO  RecibirAdjuntoHelper:114 - En el archivo..C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190211246XAIZI3Ma55.cache
+2021-05-24 19:02:11 ERROR RecibirAdjuntoHelper:124 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190211246XAIZI3Ma55.cache
+2021-05-24 19:02:11 ERROR RecibirAdjuntoHelper:143 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_190211246XAIZI3Ma55.cache
+2021-05-24 19:02:11 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:02:11 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:02:45 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 374
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1108153
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:02:45 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:02:45 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:02:45 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1108153
+2021-05-24 19:02:45 ERROR RecibirAdjuntoBean:124 - No se encontro el ticket con el ref_num = 1108153
+2021-05-24 19:02:45 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:02:45 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:10:08 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 374
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1108341
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:10:08 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:10:08 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:10:08 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1108341
+2021-05-24 19:10:08 ERROR RecibirAdjuntoBean:117 -    ::: No coinciden los numeros de referencia externos para el ticket: 1108341
+2021-05-24 19:10:08 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:10:08 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:10:33 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 374
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 58477189
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1108341
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:10:33 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:10:33 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:10:33 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1108341
+2021-05-24 19:10:33 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 19:10:33 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 19:10:33 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 19:10:33 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 19:10:33 INFO  RecibirAdjuntoBean:152 - ::: Contenido de bytes: 280
+2021-05-24 19:10:33 INFO  RecibirAdjuntoHelper:113 - Guardar el conteniodo binario de tamaño: 280
+2021-05-24 19:10:33 INFO  RecibirAdjuntoHelper:114 - En el archivo..C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191033641WE9JXplSD1.cache
+2021-05-24 19:10:33 ERROR RecibirAdjuntoHelper:124 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191033641WE9JXplSD1.cache
+2021-05-24 19:10:33 ERROR RecibirAdjuntoHelper:143 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191033641WE9JXplSD1.cache
+2021-05-24 19:10:33 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:10:33 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:10:38 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 374
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 58477189
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1108341
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:10:38 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:10:38 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:10:38 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1108341
+2021-05-24 19:10:38 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 19:10:38 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 19:10:38 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 19:10:38 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 19:10:38 INFO  RecibirAdjuntoBean:152 - ::: Contenido de bytes: 280
+2021-05-24 19:10:38 INFO  RecibirAdjuntoHelper:113 - Guardar el conteniodo binario de tamaño: 280
+2021-05-24 19:10:38 INFO  RecibirAdjuntoHelper:114 - En el archivo..C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191038840DFa3iDVcRE.cache
+2021-05-24 19:10:38 ERROR RecibirAdjuntoHelper:124 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191038840DFa3iDVcRE.cache
+2021-05-24 19:10:38 ERROR RecibirAdjuntoHelper:143 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191038840DFa3iDVcRE.cache
+2021-05-24 19:10:38 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:10:38 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:10:42 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 374
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 58477189
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1108341
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:10:42 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:10:42 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:10:42 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1108341
+2021-05-24 19:10:42 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 19:10:42 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 19:10:42 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 19:10:42 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 19:10:42 INFO  RecibirAdjuntoBean:152 - ::: Contenido de bytes: 280
+2021-05-24 19:10:42 INFO  RecibirAdjuntoHelper:113 - Guardar el conteniodo binario de tamaño: 280
+2021-05-24 19:10:42 INFO  RecibirAdjuntoHelper:114 - En el archivo..C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191042818aMENNUjXFA.cache
+2021-05-24 19:10:42 ERROR RecibirAdjuntoHelper:124 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191042818aMENNUjXFA.cache
+2021-05-24 19:10:42 ERROR RecibirAdjuntoHelper:143 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_191042818aMENNUjXFA.cache
+2021-05-24 19:10:42 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:10:42 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
+2021-05-24 19:37:35 WARN  APIRestRecibirAdjuntoIF:66 - Recibiendo archivo adjunto en APIRest
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:72 -   ::: Adjuntanto el archivo con la siguiente información:
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:73 -   ::: Tamaño del adjunto (Base64)...: 96648
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:74 -   ::: Comentario....................: prueba de comentario desde el cliente APIRest de crome invocando el POST correspondiente
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:75 -   ::: Nombre del archivo............: 1586804100_1ro Pag 80 v3.24.pdf
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:76 -   ::: Ticket de Salesforce..........: 0200124318-5003f000009FmqHAAS
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:77 -   ::: Ticket de ServioceDesk........: 1048172
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:78 -   ::: Tipo de Archivo...............: pdf
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:79 -   ::: Usuario.......................: Integracion SF Dashboard Web
+2021-05-24 19:37:35 INFO  APIRestRecibirAdjuntoIF:81 -   ::: Adjuntando archivo
+2021-05-24 19:37:35 INFO  RecibirAdjuntoBean:69 -  ::: Validando la información del ticket de Salesforce...
+2021-05-24 19:37:35 INFO  RecibirAdjuntoBean:86 -    ::: Validar la existencia del ticket ref_num = 1048172
+2021-05-24 19:37:35 INFO  RecibirAdjuntoBean:129 -  ::: Validando el contenido del archivo Base64...
+2021-05-24 19:37:35 INFO  RecibirAdjuntoBean:135 - ::: Validando el tipo de archivo...
+2021-05-24 19:37:35 INFO  RecibirAdjuntoBean:142 - ::: Validar numero de ticket de servicedesk y de salesforce...
+2021-05-24 19:37:35 INFO  RecibirAdjuntoBean:150 - ::: Decodificar el contenido del archivo Base64 ==> Original
+2021-05-24 19:37:35 INFO  RecibirAdjuntoBean:152 - ::: Contenido de bytes: 72485
+2021-05-24 19:37:35 INFO  RecibirAdjuntoHelper:113 - Guardar el conteniodo binario de tamaño: 72485
+2021-05-24 19:37:35 INFO  RecibirAdjuntoHelper:114 - En el archivo..C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_193735487JLL1MFGEca.cache
+2021-05-24 19:37:35 ERROR RecibirAdjuntoHelper:124 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_193735487JLL1MFGEca.cache
+2021-05-24 19:37:35 ERROR RecibirAdjuntoHelper:143 - Exception: No se puede generar el archivo temporal: C:\APIs\APIRecibirDocumentos\DataTemp\1586804100_1ro Pag 80 v3.24.pdf20210524_193735487JLL1MFGEca.cache
+2021-05-24 19:37:35 INFO  RecibirAdjuntoBean:214 -    ::: Cerrar la conexión a la base de datos
+2021-05-24 19:37:35 ERROR APIRestRecibirAdjuntoIF:95 - Algo no salio bien al intentar adjuntar el archivo correspondiente
