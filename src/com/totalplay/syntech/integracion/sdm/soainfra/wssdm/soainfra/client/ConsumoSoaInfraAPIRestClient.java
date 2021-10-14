@@ -10,7 +10,7 @@ import mx.com.syntech.tpe.salesforce.servicedesk.resolver.ticket.props.AppPropsB
 import org.apache.log4j.Category;
 
 /**
- *
+ * AGREGAMOS ESTA SENCILLA LINEA DE CÓDIGO
  * @author Jorge Zavala Navarro
  */
 public class ConsumoSoaInfraAPIRestClient {
