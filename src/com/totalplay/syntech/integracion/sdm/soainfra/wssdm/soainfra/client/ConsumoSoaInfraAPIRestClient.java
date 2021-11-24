@@ -34,10 +34,7 @@ public class ConsumoSoaInfraAPIRestClient {
             String params
                     = "{\"Justificacion\": \"" + Justificacion + "\","
                     + "\"NoTicket\": \"" + Noticket + "\"}";
-            String[] details = {};
-
-            log.info(Arrays.toString(details));
-
+            
             URL line_api_url = new URL(urlWS);
             String payload = params;
 
